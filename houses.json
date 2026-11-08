@@ -1,3 +1,2713 @@
 [
-  { "nick": "xayolchi.uz", "style": "xayolchi", "likes": 0, "comment": "Shahar asoschisi. Qo'shnilarimni kutyapman!" }
+{
+"nick": "xayolchi.uz",
+"style": "xayolchi",
+"likes": 0,
+"comment": "Shahar asoschisi. Qo'shnilarimni kutyapman!"
+},
+{
+"nick": "aqilboybek",
+"style": "masjid",
+"likes": 1,
+"comment": "Imom al-Buxoriy quring, siznikini yonidan",
+"title": "Imom al-Buxoriy majmuasi"
+},
+{
+"nick": "sakezxz",
+"style": "krossovka",
+"likes": 0,
+"comment": "Meni uyim nike krasofkasi bolsin🔥",
+"title": "Krossovka uy"
+},
+{
+"nick": "robi.ya2192",
+"style": "burj",
+"likes": 2,
+"comment": "Burj Xalifa ikki ustun qilib",
+"twin": true,
+"title": "Egizak Burj"
+},
+{
+"nick": "muhammadamin_anorboyev",
+"style": "olov",
+"likes": 2,
+"comment": "Olov uydan qilib bering🔥😂"
+},
+{
+"nick": "1_ibragiimov",
+"style": "qala",
+"likes": 2,
+"comment": "Katta qasr marmardan",
+"color": "marble",
+"title": "Marmar qasr"
+},
+{
+"nick": "xamroqulov_xv",
+"style": "burj",
+"likes": 0,
+"comment": "30 qavatli tilla minora, tepasida basseyn",
+"color": "gold",
+"pool": true,
+"title": "Tilla minora (30 qavat)"
+},
+{
+"nick": "kamronbek2012002",
+"style": "qavatli",
+"likes": 2,
+"comment": "Hotel, tomda vertolyot",
+"floors": 10,
+"heli": true,
+"color": "steel",
+"title": "Mehmonxona, tomida vertolyot"
+},
+{
+"nick": "javoxic",
+"style": "futbol",
+"likes": 1,
+"comment": "Futbol ko'rinishida uy"
+},
+{
+"nick": "shokhuz39",
+"style": "qoratuynuk",
+"likes": 0,
+"comment": "Qora tuynukli uy"
+},
+{
+"nick": "saydulloh.003",
+"style": "stadion",
+"likes": 0,
+"comment": "Stadionli"
+},
+{
+"nick": "_yuna_97ok",
+"style": "masjid",
+"likes": 0,
+"comment": "Masjid qurib bering"
+},
+{
+"nick": "blizzard.prime",
+"style": "kulba",
+"likes": 1,
+"comment": "2 xonali uy va 2 ta mashina",
+"cars": 2,
+"title": "Uy + 2 ta mashina"
+},
+{
+"nick": "madina37820",
+"style": "villa",
+"likes": 0,
+"comment": "Katta villa oltindan",
+"color": "gold",
+"title": "Tilla villa"
+},
+{
+"nick": "bakh.odirovv1",
+"style": "burj",
+"likes": 2,
+"comment": "20 qavatlik qasr",
+"title": "20 qavatli minora"
+},
+{
+"nick": "__umida__0985",
+"style": "qavatli",
+"likes": 1,
+"comment": "17 qavatli kafexona",
+"floors": 17,
+"sign": "KAFE",
+"color": "teal",
+"title": "17 qavatli kafe"
+},
+{
+"nick": "chori_qulova",
+"style": "qavatli",
+"likes": 0,
+"comment": "Katta uy, ustida Instagram tursin",
+"floors": 6,
+"sign": "IG",
+"color": "pink"
+},
+{
+"nick": "7a.s.a.n.b.a.e.v7",
+"style": "qavatli",
+"likes": 2,
+"comment": "3 etajli, oq rangli",
+"floors": 3,
+"color": "white"
+},
+{
+"nick": "inobotavalboev",
+"style": "qavatli",
+"likes": 1,
+"comment": "5 qavatli bo'lsin",
+"floors": 5
+},
+{
+"nick": "_056_uz",
+"style": "qavatli",
+"likes": 1,
+"comment": "Ikki qavatli ko'k uy",
+"floors": 2,
+"color": "blue"
+},
+{
+"nick": "x__baxti",
+"style": "qavatli",
+"likes": 0,
+"comment": "2 qavatli ixchamgina",
+"floors": 2,
+"color": "pink"
+},
+{
+"nick": "aysha_ametbayeva",
+"style": "minora",
+"likes": 1,
+"comment": "100 metrlik minora",
+"title": "100 metrlik minora"
+},
+{
+"nick": "dovud_16__",
+"style": "minora",
+"likes": 0,
+"comment": "Shishali bino"
+},
+{
+"nick": "zxc_ochilovv",
+"style": "burj",
+"likes": 0,
+"comment": "Eng baland uy",
+"title": "Eng baland uy"
+},
+{
+"nick": "islo.movnematjon",
+"style": "qala",
+"likes": 2,
+"comment": "Qasr qurib ber"
+},
+{
+"nick": "sobirov.429",
+"style": "qala",
+"likes": 0,
+"comment": "Qal'a"
+},
+{
+"nick": "boy_opam_",
+"style": "qala",
+"likes": 1,
+"comment": "Qal'a"
+},
+{
+"nick": "abdulazizkarim38",
+"style": "qala",
+"likes": 0,
+"comment": "Qal'a uyim"
+},
+{
+"nick": "muradov_lvv",
+"style": "qala",
+"likes": 0,
+"comment": "Qal'a oqidan",
+"color": "white"
+},
+{
+"nick": "kamollidin19",
+"style": "qala",
+"likes": 0,
+"comment": "Qasr qurib ber"
+},
+{
+"nick": "rustamov__r8",
+"style": "qala",
+"likes": 0,
+"comment": "Qasr"
+},
+{
+"nick": "yoldoshboyeva_00",
+"style": "qala",
+"likes": 1,
+"comment": "Aqlli, mustahkam, hech narsa buzolmaydigan uy",
+"color": "steel",
+"title": "Aqlli qal'a"
+},
+{
+"nick": "ufo.ard",
+"style": "qavatli",
+"likes": 0,
+"comment": "Eng katta uy",
+"floors": 12
+},
+{
+"nick": "arzikulova_dilinoza",
+"style": "villa",
+"likes": 0,
+"comment": "Villa"
+},
+{
+"nick": "jorayev_abdulboriy_",
+"style": "villa",
+"likes": 0,
+"comment": "Basseynli uy"
+},
+{
+"nick": "_out10_",
+"style": "villa",
+"likes": 1,
+"comment": "Oddiy haytek uy",
+"title": "Haytek uy"
+},
+{
+"nick": "asadbek__217__",
+"style": "qavatli",
+"likes": 1,
+"comment": "Oq uy",
+"floors": 2,
+"color": "white",
+"title": "Oq uy"
+},
+{
+"nick": "akbar_olympick",
+"style": "qavatli",
+"likes": 1,
+"comment": "Kaaata dom",
+"floors": 9
+},
+{
+"nick": "iroda19718",
+"style": "qavatli",
+"likes": 0,
+"comment": "Bino",
+"floors": 6
+},
+{
+"nick": "anvarovashaxlo134",
+"style": "qavatli",
+"likes": 1,
+"comment": "Uuuzun uy",
+"floors": 8
+},
+{
+"nick": "hakimova9714",
+"style": "qavatli",
+"likes": 1,
+"comment": "Uzun uy",
+"floors": 7
+},
+{
+"nick": "javit_islomqulov",
+"style": "qavatli",
+"likes": 0,
+"comment": "Etajli bino",
+"floors": 5
+},
+{
+"nick": "zununva.n",
+"style": "qavatli",
+"likes": 0,
+"comment": "5 etajli uy",
+"floors": 5,
+"color": "cream"
+},
+{
+"nick": "gulbahorungboeva",
+"style": "qavatli",
+"likes": 1,
+"comment": "Kattaroq bo'lsin",
+"floors": 4
+},
+{
+"nick": "pub.gmobile9873",
+"style": "qavatli",
+"likes": 2,
+"comment": "4 xonali uy",
+"floors": 2
+},
+{
+"nick": "a1luroph1le_k1ko",
+"style": "kulba",
+"likes": 0,
+"comment": "Oppoq, tilla chiziqli, malla eshik",
+"color": "white"
+},
+{
+"nick": "wod1ya1477",
+"style": "kulba",
+"likes": 1,
+"comment": "Ko'k rangli chiroyli uy",
+"color": "blue"
+},
+{
+"nick": "komoliddin.rahimjonov",
+"style": "kulba",
+"likes": 2,
+"comment": "Chukur mahallasi ko'rinishida",
+"color": "brick"
+},
+{
+"nick": "soqiyev088",
+"style": "gumbaz",
+"likes": 0,
+"comment": "O'zizi uyizi qilib bering"
+},
+{
+"nick": "_omonboyev_000777",
+"style": "kulba",
+"likes": 1,
+"comment": "Oddiy uy🔥"
+},
+{
+"nick": "gulmira45897",
+"style": "kulba",
+"likes": 0,
+"comment": "Kulba"
+},
+{
+"nick": "__maftuna__o14",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "israliov_2012",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "xayotbek.xay1979",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "tuxtanarova",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "inayotovshahzod",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "levird_cmbk",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "qimatxon8",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "fozilovusmon778",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "rbnh_edits",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "sobit.togaymurodov",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "hasanboy_201301",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "tolqinov_mirzobek",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mirzobek_niko",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "oybek64966",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "javlon_mzmm",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "as_ilbek4096",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "_madatova_927",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "asilaabdushukurova",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "babanazarov.d.sh",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mhmdjv_d",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "odinatulqinova8",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "im_brazil_n",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "abdulaziz_10.12.2012",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "rajapovvf",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "muhammadsodiq_00134",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "asad.marhamat",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "xolikovajamila",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "mansurbekov_o13",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "1broh1mjon_w",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "08_mister_r_a",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "ismoil_05_5",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "abdurahmonov0321",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "1.nabikhanov_712",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "panther.9024876",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "oymamedovqaxramon",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "ochilovo9",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "_salimovna_21.07",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "dinarakopelowa",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "komilahon678",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "_sarvar_bek_14_",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "zxc.bexruz",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "sherzodivic_2000",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "otayarovasalomat",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "khabibulayevich3",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "ulugbik2141",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "r.ali_.777._",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "safarova_5535",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "_aziza_safarova_",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "kamronbe_00001",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "ulugbekova_1413",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "296_uzb",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "1_futboll_time",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "juraqulovhikmatullo",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mamaraimovaroxabza",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "axamdulla",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "borz87806",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "davlat799146",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "xodjayeva29",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "igtg.1",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "lolaxon196929",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "jokker_2000_jokker",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "ksbdjdvs",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "dilyaa_50",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "_4oo_4oo_",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "usubjonov._.100k",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "toxira0611",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "orifa_abdijalilova",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "yxurw1d",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "_n0sirov__l7",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "shohmalik_875",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "egemberdievna_13",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "maxsumamerganva",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "dilshoda___0055",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "ase.la010",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "salimjonvmoydinov",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "maftuna_mamirjanova",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "vexil1n",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "ave_master13",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "az1zbeko12",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "otaboyev0910",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "eshpolatovumarjon561",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "shakhr1yor__12",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "_not_pubg_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "rustamovaziz70",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "nsmm_com",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "tijglfgi",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "nurb.ek9713",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "sayyora27939",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "suhrob80476",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "ke_sha5843",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "mahmudov_4987",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "abror_147_aa",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "bekzod_mmmmm",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "firdavsbek.2016",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "bayel5047",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "xurshidakuranboyeva385",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "usmonova_dildoraaa",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "sevinchxon030",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "samatova6702",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "um1d_884",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "_zafarivcc_776_",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "suxrobking_001",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "meowgii__27",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "athamovc_723",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "43.7930",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "khalturayev_",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "maysara5126",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "abdulloh_110316",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "uzbn1pporginal",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "irodautasheva92",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "muhammad.umar_013",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "feruza_19901994",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "aniuzbek0088",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "nazarovazumagul73",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "liverpoolfan4067",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "alimdjanov_vxs",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "07.live.fx",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mali1janov__",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "feruzakhondzhakbarova",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "imrannci",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "dilfuzaxonruzmatova",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "asal75115",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "ba.khodir9146",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "karamatdinovashiirin",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "mukarrammuminova79",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "real_niko7771",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "sharipjontursunv",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "azizbek._.1131",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "husanurunbayev",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "dilshodaergasheva2405",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "bts_blackpink_bookg1rl",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "_axmatboy_",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "orzuxon462",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "goldin_jamshid",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "shamsiddin39982",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "axo_o1o",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "farzod_boxing",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "safura_3770",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "gk_.ruslan",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "clxe.ditz",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "behruzx.701",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "orazimbetovabekajan",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "lsoxon_367_3333",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "gulnur_glow",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "xadicham_1402",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "_beg_zod89",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "khasanov.23_11",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "atirgul56586",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "isfandiyor25354",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "norqulovvz",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mohmud.yusupov",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "sar_135_var.dnm",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "suyunovismat",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "mustafozhun",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "zyvddn_x7",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "eshmurodova8443",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "konikkankamilov",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "muhabbat.ganieva",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "hayitbek_pubigm",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "hu.sniddin6027",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "ismatoov.l",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "berdimuratovaazima",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "ubzzm",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "seyxan_14",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "pubg_tekno",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "_ramazan_1309",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "dilshod_blog00",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "wepvibes",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "delam329",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "qurbonov_tulyor",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "musi_00_14_",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "shoxi_ake_1v1",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "soyannnghh",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "muxammadjonov_2013",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "sobirovic.022",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "ai_vidoalar_001",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "lailo4718",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "jumaboev.a7",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "siyovush_cik.oo7",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "habil.a08",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "tanjiro_kamado_jdu",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "monsterxuz",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "jon.ka_701_",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "zari.fjon76",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "bexruz_xalmuratov",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "behruzbek__1502",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "vip_abuuu",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "zebo_kichkintoy",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "sattorov_official.13",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "alham_duruloh09",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "nematjano_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "salamatovish_014",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "omad_bek721",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "_tuychiyevv_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "mirkomil00_1",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "abdurakhmonovv.l7",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mk2f_f",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "dilshod878571",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "oa_bul_dizl_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "hajdaralijevavazira",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "kaam1lov.07",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "salamat.qqr7",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "zuhra_2016____",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "luvaire7",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "akobir_0402",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "amir_ftbl_uz",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "55_nn_02",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "inst.mustafo",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "amirbek81535",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "abdurahmon_8512_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "itz_pulsarmc",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "ab_durahmatov",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "m.o.l.l.y.f.c",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "jamshid_1st",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "nodirkarimov468",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "muxammadjon13642",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "fatih_m_f",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "olimo.vv.11",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "bexruzbekzahidjanov",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "neonx_car.edit",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "shoh_jahon.13",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "xudoyberganovadilbar9",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "alimron.27",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "ramo_082015",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "shexa.27",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "dreven_.17",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "buronov517",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "_botiro_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "y5g5fi8",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "mansurbek_fx_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "shohobiddin_07_15",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "berdimuratova.sapargul",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "ibrohimjon.0169",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "003_uzc",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "asliddin87043",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "nodirbek071113",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "madina7617567",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "13.526051",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "farhodjon__013",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "_07cv77",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "sardorobek_013_",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "oltinoy_nizomiddinova",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "goose.1106566",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "miralimss",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "badger.5122669",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "guli.96.07",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "latifjonov_1326",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "muslima060216",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "lola198909",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "gulsanem2015",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "_shoxruxbek_ergashev_fan_",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "boyvoccabola",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "11.yoldoshov._",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "fazli_ddin_970",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "bmaxsuma",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "namozov.nazarbek",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "elbek94287",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "kamronbek_8643",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "nuriddinov1.ch",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "dildora57235",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "mu_nira7234",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "sh.ahriyor1746",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "duny_o5463",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "oybek__8608",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "nemativaniso",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "_azizbekooo16_",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "salom_16_08",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "11.umarxonov",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "abdurashidovich._.11",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "nslazizbek",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "tohirov1763",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "shukurxoja_2014",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "pubgchi_bola_tdm",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "kamina001217",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "islomabdilakimov",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mustaforaximov008",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "zyrox_best",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "norpulatovasilbek.gmail",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "hasanboy16_husanboy16",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "islom.akbarovvv7",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "fkh_abbos",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "ni.so910",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "nurlan_qayratdinov",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "fcnasafteam",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "lazizov1c_04",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "jorayev.jbk4",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "guljahon5362",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "inyatillaev_nurmuhammad",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "13_scarpion_12",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "azimovjahongir6",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "m5tdemchik",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "1brhmjnv",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "xadicha3076",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "a5page1",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "madina_888._",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "khairullaievna",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "abdulaziz75638",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "baxtiyorov.mu",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "abubakr851134",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "umir_zoq201",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "usmonova_maftuna_o89",
+"style": "qala",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "asilbek.2010_06",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "mlwrvsss",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "shokh_rukh675",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "onurbelech",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "diyorbe__993",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "abrorov.h_011",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "_no_name_ffc",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "17_su1tonboyev",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "sultonov_00154",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "23_school_7bclass",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "khulkar35",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "javoh_01201422222",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "akromov.rasul",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "__ramzon_01",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "shoxakke79",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "rtdrustamova2026",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "ranoxon8733",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "miso.co01",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "bmw58048",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "oken20552",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2
+},
+{
+"nick": "mansur_55593",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "31_shamshod_05",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "pink"
+},
+{
+"nick": "abdulazizganiyev09",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "ravshan007.007",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "blue"
+},
+{
+"nick": "azizbe.7k",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "banbilbee",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "akromivich_17_",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "aziz___100__k",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "kadirovv__571",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "gavhar19732026",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "brick"
+},
+{
+"nick": "eshkob1ov",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "malikaqoshmurodova8",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "dilfuza27294",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "shovv_ozbek12",
+"style": "otov",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "abduganiiii75",
+"style": "villa",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "hikari_o15",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "ali5165755",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "berganovbekzodbek",
+"style": "gumbaz",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "kdvt74g1rqw",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "14.abdukodirov",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 5
+},
+{
+"nick": "munira_khahramonovna_",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 3
+},
+{
+"nick": "_timvv._4",
+"style": "kulba",
+"likes": 0,
+"comment": "",
+"color": "white"
+},
+{
+"nick": "azimjon_____701",
+"style": "minora",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "humoyun_off_7",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 7,
+"color": "steel"
+},
+{
+"nick": "chorshanbeyiv__001",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 2,
+"color": "teal"
+},
+{
+"nick": "kamilovnazamira",
+"style": "qavatli",
+"likes": 0,
+"comment": "",
+"floors": 4,
+"color": "cream"
+},
+{
+"nick": "titan_111f",
+"style": "kulba",
+"likes": 0,
+"comment": ""
+},
+{
+"nick": "qirollik_guli_malikasi_3576",
+"style": "otov",
+"likes": 0,
+"comment": ""
+}
 ]

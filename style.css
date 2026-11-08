@@ -38,3 +38,6 @@ footer{position:fixed;left:0;right:0;bottom:0;text-align:center;font-size:11px;c
 #overlay{position:fixed;inset:0;pointer-events:none;z-index:20}
 body.video header#ui,body.video #zoom,body.video #hint,body.video footer,body.video #card{display:none}
 @media (max-width:520px){.brand span{display:none}.btn{padding:8px 10px}#hint{display:none}}
+
+.ctip{margin-top:10px;font-size:13px;line-height:1.35;background:rgba(255,211,92,.12);border:1px dashed rgba(255,211,92,.6);border-radius:12px;padding:8px 10px}.ctip b{color:var(--gold)}
+body.video #toast{display:none!important}
